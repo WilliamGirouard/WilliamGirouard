@@ -1,4 +1,4 @@
 ## Hi I'm WilliamGirouard 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamGirouard)](https://github.com/WilliamGirouard/github-readme-stats)
+[![Stats](https://github-readme-stats-ten-snowy-69.vercel.app/api?username=WilliamGirouard)]
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=WilliamGirouard&theme=youtube-dark)](https://git.io/streak-stats)
