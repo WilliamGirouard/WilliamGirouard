@@ -1,5 +1,11 @@
 ## Hi I'm WilliamGirouard 👋
 
+💻 Fullstack dev · JS/TS · C# · Java · Python · SQL  
+🚀 React · NestJS · Docker · REST APIs  
+🎓 Technique de l'informatique @ Cégep Marie-Victorin  
+📬 Open to internships
+
+---
 ![Stats](https://github-readme-stats-ten-snowy-69.vercel.app/api/top-langs?username=WilliamGirouard&show_icons=true&theme=dark)
 
 ![Stats](https://github-readme-stats-ten-snowy-69.vercel.app/api?username=WilliamGirouard&show_icons=true&theme=dark)
